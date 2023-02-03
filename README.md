@@ -15,7 +15,8 @@ Currently I'm working on appling deep learning models to SAR imagery. I've train
 ### Contributions to open-source:
 - [Label studio integration in FiftyOne](https://github.com/voxel51/fiftyone/pull/1848)
 - [CLIP model integration in FiftyOne](https://github.com/voxel51/fiftyone/pull/1691)
-- smaller contributions: [count exact number of frames](https://github.com/voxel51/fiftyone/pull/2373), 
+- smaller contributions: [triton-mlflow-plugin fix](https://github.com/triton-inference-server/server/pull/4413),
+[count exact number of frames](https://github.com/voxel51/fiftyone/pull/2373), 
 [cvat custom name](https://github.com/voxel51/fiftyone/pull/2353), [mlflow onnx flavor docs](https://github.com/mlflow/mlflow/pull/7398),
 [import from/export to yolov5 format with confidence](https://github.com/voxel51/fiftyone/pull/1465)
  
