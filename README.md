@@ -24,6 +24,7 @@ Some projects I've worked on:
 - [Computer vision data prep and model training and deployment from cli](https://github.com/Rusteam/finegrained). Docs are yet to come.
 - [UI page to set a training schedule reminder](https://github.com/Rusteam/ogb_schedule_webapp). 
 See a [webpage](https://office-gym-bot.website.yandexcloud.net) or try in a [Telegram bot](https://t.me/officegymbot).
+- [Data clustering hackathon - 4th place](https://github.com/Rusteam), [hackathon description](https://contest.com/docs/dc2021-r2).
 - [Telegram bot to reply with video quotes from favourite movies](https://t.me/viavidbot).
 - [Blog in Russian](https://github.com/Rusteam/rusteam.github.io).
 - [Deeplearning.ai GAN specialization homework](https://github.com/Rusteam/gan).
