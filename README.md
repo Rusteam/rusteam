@@ -1,11 +1,9 @@
 # Hi there
 
 My name is Rustem Glue. I am a deep learning researcher and engineer. 
-I have experience working with structured machine learning problems and
-text and image processing with deep learning. 
-Currently I'm working on appling deep learning models to SAR imagery. I've trained:
-- an object detection model to localize multiple object classes
-- a segmentation model to recognize environmental issues.
+I have experience working with structured machine learning problems and deep learning for CV and NLP. 
+
+Currently I'm working on appling deep learning models to SAR imagery. I've trained an object detection model with yolov5 and a semantic segmentation model with unet.
 
 
 ## [0.0.1] - 2023-02-03
@@ -29,6 +27,7 @@ See a [webpage](https://office-gym-bot.website.yandexcloud.net) or try in a [Tel
 - [Telegram bot to reply with video quotes from favourite movies](https://t.me/viavidbot).
 - [Blog in Russian](https://github.com/Rusteam/rusteam.github.io).
 - [Deeplearning.ai GAN specialization homework](https://github.com/Rusteam/gan).
+- [Winner of epilepsy classification hackathon](https://medium.com/me/stats/post/2b82a23474ea?source=main_stats_page).
 
 <!--
 **Rusteam/rusteam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
