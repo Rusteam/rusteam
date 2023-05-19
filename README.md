@@ -1,10 +1,19 @@
 # Hi there
 
-My name is Rustem Glue. I am a deep learning researcher and engineer. 
-I have experience working with structured machine learning problems and deep learning for CV and NLP. 
+- 🔭 I’m currently working on applying deep learning to the SAR domain
+- 🌱 I’m currently learning more efficient coding on Leetcode.
+- 👯 I’m looking to collaborate on deep learning, computer vision, LLMs, multi-modal learning.
+- 📫 How to reach me: [medium](https://medium.com/@rustemgal), [linkedin](https://www.linkedin.com/in/rustemg/).
 
-Currently I'm working on appling deep learning models to SAR imagery. I've trained an object detection model with yolov5 and a semantic segmentation model with unet.
-
+## [0.1.1] - 2023-05-10
+### Publications
+- [Comparison of object detection method for SAR](https://medium.com/@rustemgal/yolov8-efficientdet-faster-r-cnn-or-yolov5-for-remote-sensing-12487c40ef68?source=github_welcome)
+- [How to create reproducible data prep pipelines](https://medium.com/@rustemgal/reproducible-data-prep-a49207ded8bc?source=github_welcome)
+- [My humble manifest on keeping a Trainlog for machine learning experiments](https://medium.com/@rustemgal/keep-a-trainlog-8ee35553c0bd?source=github_welcome)
+### Contributions to open-source
+- Segment-anything model integration to [segmentation-models-pytorch](https://github.com/qubvel/segmentation_models.pytorch/pull/757)
+- Segment-anything model integration to [fiftyone zoo](https://github.com/voxel51/fiftyone/pull/3019)
+- small hf-accelerate [fix](https://github.com/huggingface/accelerate/pull/1403), small enhancement to [segment-anything](https://github.com/facebookresearch/segment-anything/pull/314), dice score computation in [fiftyone](https://github.com/voxel51/fiftyone/pull/2777)
 
 ## [0.1.0] - 2023-02-03
 ### Publications
