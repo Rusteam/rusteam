@@ -9,6 +9,21 @@
 - 👯 I’m looking to collaborate on deep learning, computer vision, LLMs, multi-modal learning.
 - 📫 How to reach me: [medium](https://medium.com/@rustemgal), [linkedin](https://www.linkedin.com/in/rustemg/).
 
+---
+
+## [0.1.2] - 2023-12-24
+### Publications
+- [Practical hyper-parameter tuning for deep learning](https://medium.com/@rustemgal/practical-hyper-parameter-tuning-for-any-deep-neural-net-303cc537fd01)
+- [Few tips to fine-tune SAM](https://medium.com/@rustemgal/fine-tune-segment-anything-model-9877993d9db9)
+- Others: [zero-training object detection](https://medium.com/@rustemgal/zero-training-object-detection-81820c30073f), [telegram ml hackathon solution](https://medium.com/@rustemgal/tfidf-naive-bayes-beat-neural-nets-a58f9dff3741), [selecting video frames for labelling](https://medium.com/ai-mind-labs/efficient-frame-extraction-for-video-object-annotation-366daba84556)
+### Contributions to open-source
+- [HOTA calculation for tracking evaluation with py-motmetrics](https://github.com/cheind/py-motmetrics/pull/183)
+- fiftyone contributions: [browser selection](https://github.com/voxel51/fiftyone/pull/3789), [feature extractor enhacement](https://github.com/voxel51/fiftyone/pull/3517), [dataset export tags](https://github.com/voxel51/fiftyone/pull/3412), [sam to model zoo](https://github.com/voxel51/fiftyone/pull/3019)
+- [tiny ultralytics contribution](https://github.com/ultralytics/ultralytics/pull/4668)
+### Projects
+- [2nd place telegram mini-app hackathon solution](https://github.com/Rusteam/ogb_schedule_webapp)
+- [Telegram ML hackathon solution repo](https://github.com/Rusteam/tglang) and [a huggingface demo](https://github.com/Rusteam/tglang).
+
 ## [0.1.1] - 2023-05-10
 ### Publications
 - [Comparison of object detection method for SAR](https://medium.com/@rustemgal/yolov8-efficientdet-faster-r-cnn-or-yolov5-for-remote-sensing-12487c40ef68?source=github_welcome)
