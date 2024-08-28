@@ -4,15 +4,32 @@
 
 ---
 
-- 🔭 I’m currently working on applying deep learning to the SAR domain
+🌟 Current focus
+
+- 🔭 I’m currently working on training deep learning models and using conversational LLM/VLM models.
 - 🌱 I’m currently learning more efficient coding on Leetcode.
 - 👯 I’m looking to collaborate on deep learning, computer vision, LLMs, multi-modal learning.
 - 📫 How to reach me: [medium](https://medium.com/@rustemgal), [linkedin](https://www.linkedin.com/in/rustemg/).
 
 ---
 
+## [0.1.3] - 2024-08-28
+## 📚 Publications
+- How to share ML experiments and code ([Part I](https://medium.com/@rustemgal/how-to-share-ml-experiments-and-code-part-ii-fe115360b4cc?source=github-------------------------------------), [Part II](https://medium.com/@rustemgal/how-to-share-ml-experiments-and-code-part-ii-fe115360b4cc?source=github-------------------------------------))
+- [LLM evaluation for RAG applications](https://medium.com/@rustemgal/llm-evaluation-for-rag-applications-9a281dd75b00?source=github-------------------------------------)
+- [2023 highlights of computer vision progress](https://medium.com/@rustemgal/2023-my-journey-through-the-world-of-computer-vision-technologies-48c6949bb3a3?source=github-------------------------------------)
+- Others: [building models without labels](https://medium.com/@rustemgal/detect-and-classify-with-zero-labels-and-code-618b84a9d927?source=github-------------------------------------), [GPU workflows in deep learning](https://medium.com/@rustemgal/from-notebooks-to-agents-evolution-of-gpu-workflows-in-deep-learning-154b480ec47d?source=github-------------------------------------), [tf-idf + NB for text classification](https://medium.com/@rustemgal/tfidf-naive-bayes-beat-neural-nets-a58f9dff3741?source=github-------------------------------------)
+### 💻 Open-Source Contributions
+- haystack contributions: [fix union types](https://github.com/deepset-ai/hayhooks/pull/31), [rest api tags](https://github.com/deepset-ai/hayhooks/pull/21), [ssl disable](https://github.com/deepset-ai/hayhooks/pull/21), [ollama fix](https://github.com/deepset-ai/haystack-core-integrations/pull/670)
+- fiftyone contributions: [yolov8 track ids](https://github.com/voxel51/fiftyone/pull/4569), [draw labels on video](https://github.com/voxel51/fiftyone-plugins/pull/136)
+### 🚀 Projects
+- [Real-time video analytics](https://github.com/Rusteam/video-analytics)
+- [LLM-RAG service](https://github.com/Rusteam/vlm-rag-chat)
+- [Structured text parsing with LLM and OCR for whatsapp bot](https://github.com/Rusteam/whatsapp-spares)
+
+
 ## [0.1.2] - 2023-12-24
-### Publications
+## Publications
 - [Practical hyper-parameter tuning for deep learning](https://medium.com/@rustemgal/practical-hyper-parameter-tuning-for-any-deep-neural-net-303cc537fd01)
 - [Few tips to fine-tune SAM](https://medium.com/@rustemgal/fine-tune-segment-anything-model-9877993d9db9)
 - Others: [zero-training object detection](https://medium.com/@rustemgal/zero-training-object-detection-81820c30073f), [telegram ml hackathon solution](https://medium.com/@rustemgal/tfidf-naive-bayes-beat-neural-nets-a58f9dff3741), [selecting video frames for labelling](https://medium.com/ai-mind-labs/efficient-frame-extraction-for-video-object-annotation-366daba84556)
