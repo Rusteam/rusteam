@@ -6,12 +6,13 @@
 
 🌟 Current focus
 
-- 🔭 I’m currently working on training deep learning models and using conversational LLM/VLM models.
-- 🌱 I’m currently learning more efficient coding on Leetcode.
-- 👯 I’m looking to collaborate on deep learning, computer vision, LLMs, multi-modal learning.
+- 🔭 I’m currently working on practical robotics applications.
+- 🌱 I’m currently learning robotics.
+- 👯 I’m looking to collaborate on robotics, agentic coding and multi-modal learning.
 - 📫 How to reach me: [medium](https://medium.com/@rustemgal), [linkedin](https://www.linkedin.com/in/rustemg/).
 
 ---
+
 
 ## [0.1.3] - 2024-08-28
 ## 📚 Publications
